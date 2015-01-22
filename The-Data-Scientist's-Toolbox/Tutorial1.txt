@@ -1,0 +1,25 @@
+###Question 1
+Which of the following are courses in the Data Science Specialization? Select all that apply.
+
+###Question 2
+Why are we using R for the course track? Select all that apply.
+R has a large number of add on packages that are useful for data analysis.
+R has a nice IDE, Rstudio.	
+
+###Question 3
+What are good ways to find answers to questions in this course track? Select all that apply.
+Searching Stack Overflow.
+Looking through R help files.
+
+###Question 4
+What are characteristics of good questions on the message boards? Select all that apply.
+Provides the minimum amount of information necessary to communicate the problem.
+Asks for a code fix without explanation.	
+Explicitly lists versions of software being used.
+
+###Question 5
+Which of the following packages provides machine learning functionality? Select all that apply
+shiny	F
+gbm	T
+caret	T
+knitr	F
